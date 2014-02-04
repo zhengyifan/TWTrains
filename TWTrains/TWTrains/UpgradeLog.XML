@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TWTrains">
+</Property><Property Name="Solution File" Value="D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.sln">
+</Property><Property Name="User Options File" Value="D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.suo">
+</Property><Property Name="Date" Value="2012年6月14日">
+</Property><Property Name="Time" Value="23:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TWTrains.sln" Description="File successfully backed up as D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="TWTrains.suo" Description="File successfully backed up as D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.suo.old">
+</Event><Event ErrorLevel="0" Project="TWTrains" Source="TWTrains.vcproj" Description="Converting project file 'D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TWTrains" Source="TWTrains.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="TWTrains" Source="TWTrains.vcproj" Description="Done converting to new project file 'D:\Yifan.Zheng\WorkSpace\CodeResource\TWTrains\TWTrains\TWTrains.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TWTrains" Source="TWTrains.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TWTrains.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TWTrains.sln" Description="Converted">
+</Event></UpgradeLog>
