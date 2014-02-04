@@ -6,6 +6,7 @@
 #include "TrainTest.h"
 #include "Train.h"
 
+// for test
 int _tmain(int argc, _TCHAR* argv[])
 {
 	CTrainTest Test;
